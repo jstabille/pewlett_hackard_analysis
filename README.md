@@ -8,7 +8,7 @@ The purpose of this analysis is to address the aging workforce at Pewlett Hackar
 
 Pewlett Hackard currently stores their employee data in 6 different csv files. Here is the entity relationship diagram of those datasets.
 
-![employee_db] (/images/EmployeeDB.png)
+![employee_db] (images/EmployeeDB.png)
 
 ## Results
 
@@ -22,7 +22,7 @@ The current criteria for this analysis is to find employees born between 1952 an
 4. 40,497 employees are staff
 5. Only 2 managers need to be replaced
 
-![retiring_titles](/Data/retiring_titles.csv)
+![retiring_titles](Data/retiring_titles.csv)
 
 ### Mentorship Eligibility
 
@@ -34,7 +34,7 @@ The current criteria for this analysis is to find employees born in 1965 and hav
 4. 724 employees are staff
 5. There are no managers eligible for this program based on the current criteria
 
-![mentorship_eligibility](/images/mentorship_eligibility.png)
+![mentorship_eligibility](images/mentorship_eligibility.png)
 
 ## Summary
 
@@ -42,4 +42,4 @@ Looking at both of these analyses, we can see that of the 90,396 potential space
 
 If we change to criteria for the mentorship program to employees born between 1962 and 1965 those numbers drop to one mentor for every 1.6 new employees and one senior level mentor for every 2.3 new senior level employees. By widening the pool of eligible employees this program has a strong chance at not only surviving, but thriving. More employees will be incentized to mentor if they are only mentoring 2 to 3 people instead of 50+ people. Also, new employees will gain more from one on one mentoring compared to group mentoring that would likely happen in the first situation. While not everyone will want to praticipate in this program, the more current employees who are eligible to better to see this program succeed.
 
-![mentorship_updated](/Data/mentorship_eligibility_updated.csv)
+![mentorship_updated](Data/mentorship_eligibility_updated.csv)

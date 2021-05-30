@@ -2,7 +2,9 @@
 
 ## Overview
 
-The purpose of this analysis is to address the aging workforce at Pewlett Hackard. In order to account for this, I have been tasked with identifying employees who are most likely to retire soon by their title and employees who could transition to a part time mentorship program compared to just retiring. I used PostgreSQL to complete my analysis.
+The purpose of this analysis is to address the aging workforce at Pewlett Hackard. In order to account for this, I have been tasked with identifying employees who are most likely to retire soon by their title and employees who could transition to a part-time mentorship program compared to just retiring.
+
+Analysis performed using PostgreSQL tool.
 
 ### Current Storage of Data
 

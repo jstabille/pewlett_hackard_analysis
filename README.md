@@ -8,7 +8,7 @@ The purpose of this analysis is to address the aging workforce at Pewlett Hackar
 
 Pewlett Hackard currently stores their employee data in 6 different csv files. Here is the entity relationship diagram of those datasets.
 
-![employee_db] (/images/EmployeeDB.png)
+![employee_db](/images/EmployeeDB.png)
 
 ## Results
 

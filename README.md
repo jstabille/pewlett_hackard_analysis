@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to address the aging workforce at Pewlett Hackard. In order to account for this, I have been tasked with identifying employees who are most likely to retire soon by their title and employees who could transition to a part-time mentorship program compared to just retiring.
 
-Analysis performed using PostgreSQL tool.
+Analysis performed using PostgreSQL, pgAdmin, and Quick DBD tools.
 
 ### Current Storage of Data
 
@@ -12,7 +12,7 @@ Pewlett Hackard currently stores their employee data in 6 different csv files. H
 
 ![employee_db](/images/EmployeeDB.png)
  
-Note: Above ERD uses PostgreSQL, [click here](/images/EmployeeDB_ERD.png) to obtain ERD from Quick DBD
+Note: Above ERD uses PostgreSQL, [click here](/images/EmployeeDB_ERD.png) to obtain ERD from Quick DBD.
 
 ## Results
 

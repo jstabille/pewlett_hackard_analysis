@@ -11,6 +11,8 @@ Analysis performed using PostgreSQL tool.
 Pewlett Hackard currently stores their employee data in 6 different csv files. Here is the entity relationship diagram of those datasets.
 
 ![employee_db](/images/EmployeeDB.png)
+ 
+Note: ERD PostgreSQL, [click here](/images/EmployeeDB.png) to obtain ERD from Quick DBD
 
 ## Results
 

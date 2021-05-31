@@ -12,7 +12,7 @@ Pewlett Hackard currently stores their employee data in 6 different csv files. H
 
 ![employee_db](/images/EmployeeDB.png)
  
-Note: ERD PostgreSQL, [click here](/images/EmployeeDB.png) to obtain ERD from Quick DBD
+Note: Above ERD uses PostgreSQL, [click here](/images/EmployeeDB_ERD.png) to obtain ERD from Quick DBD
 
 ## Results
 
